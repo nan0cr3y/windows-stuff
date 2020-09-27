@@ -38,6 +38,8 @@ handbrake
 aimp
 youtube-dl
 ffmpeg
+potplayer
+vlc
 ```
 
 #### Laptop specifics
