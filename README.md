@@ -1,5 +1,9 @@
 # windows-stuff
 
+### Change Computer Name
+Control Panel -> System -> Advanced System Settings
+Tab Computername
+
 ## Installing packages with Chocolatey
 ### Install Chocolatey on its own
 open an Elevated (Admin) Powershell prompt  
